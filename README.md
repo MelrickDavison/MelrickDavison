@@ -21,27 +21,12 @@ Bem-vindo ao meu GitHub! Aqui compartilho meus projetos, estudos e experimentos 
 - ✅ [Sistema de Rifas](https://github.com/MelrickDavison/Sistema_de_Rifa) - Plataforma para gestão de rifas online
 - ✅ [React Native Estudos](https://github.com/MelrickDavison/React-Native) - Projetos e experimentos com React Native
 - ✅ [Banco de Dados](https://github.com/MelrickDavison/banco-de-dados) - Modelagem e consultas SQL
+- ✅ [Molecule in a Box](https://github.com/MelrickDavison/molecule-in-a-box) - Trabalho de física para mostrar a interação de moléculas de acordo com a pressão dentro de uma caixa
 
 ## 📞 Contato
 
 - ✉ E-mail: davisonmelrick8@gmail.com 
-- 👤 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 👤 [LinkedIn](https://www.linkedin.com/in/melrick-davison-2abb7a28a)
 
 Fique à vontade para explorar meus repositórios e contribuir! 🚀
 
-
-
-<!--
-**MelrickDavison/MelrickDavison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
