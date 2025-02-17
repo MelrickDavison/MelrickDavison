@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome]
+# Olá! Eu sou Melrick Davison
 
 Bem-vindo ao meu GitHub! Aqui compartilho meus projetos, estudos e experimentos na área de tecnologia.
 
